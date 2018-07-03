@@ -441,6 +441,8 @@ case $OPTION in
 		--without-http_browser_module \
 		--with-threads \
 		--with-file-aio \
+		--with-stream \
+		--with-stream_ssl_module \
 		--with-http_ssl_module \
 		--with-http_v2_module \
 		--with-http_mp4_module \

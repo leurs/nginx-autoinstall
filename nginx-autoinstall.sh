@@ -447,7 +447,9 @@ case $OPTION in
 		--with-http_auth_request_module \
 		--with-http_slice_module \
 		--with-http_stub_status_module \
-		--with-http_realip_module"
+		--with-http_realip_module \
+		--with-stream \ 
+		--with-stream_ssl_module"
 
 		# Optional modules
 		# LibreSSL 
